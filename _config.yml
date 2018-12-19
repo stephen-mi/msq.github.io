@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 宓树权的博客 | BY Blog
+title: MSQ Blog
+SEOTitle: 宓树权的博客 | MSQ Blog
 header-img: img/post-bg-desk.jpg
 email: mishuquan@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 宓树权的博客, mishuquan, 宓树权, iOS, Apple, iPhone"
+keyword: "MSQ, MSQ Blog, 宓树权的博客, mishuquan, 宓树权, iOS, Apple, iPhone"
 url: "http://msq.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/stephen-mi/msq.github.io.git" # you code repository
@@ -22,7 +22,7 @@ RSS: false
 #zhihu_username:     qiubaiying
 github_username:    stephen-mi
 #facebook_username:  baiying.qiu.7
-#jianshu_username:   e71990ada2fd
+jianshu_username:   faker_mi
 #twitter_username:   qiubaiying
 
 
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 1531bb63cc4efb715968                            #生成的clientID
+  clientSecret: 56f2d8c6949988908b3c550437071c26892a44bc    #生成的clientSecret
+  repo: msq.github.io    #仓库名称
+  owner: stephen-mi    #github用户名
+  admin: msq
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -99,11 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书·MSQ",
+        href: "https://www.jianshu.com/u/0999ad8d97e3"
     },{
         title: "Apple",
         href: "https://apple.com"
