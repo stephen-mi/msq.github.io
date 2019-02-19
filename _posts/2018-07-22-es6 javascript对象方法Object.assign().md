@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      es6javascript对象方法Object.assign()
-subtitle:   es6javascript对象方法Object.assign()的使用
+title:      es6 javascript对象方法Object.assign()
+subtitle:   es6 javascript对象方法Object.assign()的使用
 date:       2018-07-22
 author:     BY
 header-img: img/post-bg-BJJ.png
@@ -12,8 +12,8 @@ tags:
 	- Object.assign
 ---
 
-
 > es6 javascript对象方法Object.assign()的使用
+
 
 ## 基本用法
 
