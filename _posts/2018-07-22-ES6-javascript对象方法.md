@@ -1,15 +1,15 @@
 ---
 layout:     post
-title:      111
-subtitle:   111
-date:       2018-07-22
+title:      Git指令整理
+subtitle:   不适合阅读的整理的一些个人常用的 Git 指令
+date:       2018-06-15
 author:     BY
-header-img: img/post-bg-BJJ.jpg
+header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - ES6
-	- javascript
-	- Object.assign
+    - Mac
+    - 终端
+    - Git
 ---
 
 > es6 javascript对象方法Object.assign()的使用
