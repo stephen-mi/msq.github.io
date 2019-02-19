@@ -1,15 +1,15 @@
 ---
 layout:     post
-title:      ES6 javascript对象方法Object.assign()
-subtitle:   ES6 javascript对象方法Object.assign()的使用
+title:      ES6 javascript对象方法Object.assign
+subtitle:   ES6 javascript对象方法Object.assign的使用
 date:       2018-07-22
 author:     BY
-header-img: img/post-bg-BJJ.jpg
+header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - ES6
-	- javascript
-	- Object.assign
+    - Mac
+    - 终端
+    - Git
 ---
 
 > es6 javascript对象方法Object.assign()的使用
@@ -88,10 +88,10 @@ Object.assign({ a: 'b' }, { [Symbol('c')]: 'd' })
 ## 注意点
 Object.assign方法实行的是浅拷贝，而不是深拷贝。也就是说，如果源对象某个属性的值是对象，那么目标对象拷贝得到的是这个对象的引用。
 ```
-	var obj1 = {a: {b: 1}};
-	var obj2 = Object.assign({}, obj1);
-	obj1.a.b = 2;
-	obj2.a.b // 2
+var obj1 = {a: {b: 1}};
+var obj2 = Object.assign({}, obj1);
+obj1.a.b = 2;
+obj2.a.b // 2
 ```
 上面代码中，源对象obj1的a属性的值是一个对象，Object.assign拷贝得到的是这个对象的引用。这个对象的任何变化，都会反映到目标对象上面。
 对于这种嵌套的对象，一旦遇到同名属性，Object.assign的处理方法是替换，而不是添加。
