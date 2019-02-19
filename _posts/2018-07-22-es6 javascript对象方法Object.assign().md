@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      es6 javascript对象方法Object.assign()
-subtitle:   es6 javascript对象方法Object.assign()的使用
+title:      111
+subtitle:   111
 date:       2018-07-22
 author:     BY
 header-img: img/post-bg-BJJ.png
