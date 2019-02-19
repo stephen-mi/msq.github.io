@@ -4,7 +4,7 @@ title:      111
 subtitle:   111
 date:       2018-07-22
 author:     BY
-header-img: img/post-bg-BJJ.png
+header-img: img/post-bg-BJJ.jpg
 catalog: true
 tags:
     - ES6
