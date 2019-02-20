@@ -7,9 +7,8 @@ author:     BY
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - Mac
-    - 终端
-    - Git
+    - ES6
+    - javascript
 ---
 
 > es6 javascript对象方法Object.assign()的使用
