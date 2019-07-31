@@ -14,18 +14,22 @@ tags:
 ### 为什么使用TypeScript
 
 - JavaScript的超集
+
 支持所有原生JavaScript的语法
 
 - 强类型语言
+
 现在很多主流语言都是强类型的，而这点也一直是JavaScript所被人诟病的地方。使用TypeScript之后，将会在代码调试、重构等步骤节省很多时间。
 比如说：函数在返回值的时候可能经过复杂的操作，那我们如果想要知道这个值的结构就需要去仔细阅读这段代码。那如果有了TypeScript之后，直接就可以看到函数的返回值结构，将会非常的方便。
 
 -强大的IDE支持
+
 现在的主流编辑器如VSCode、WebStorm、Atom、Sublime等都对TypeScript有着非常友好的支持，主要体现在智能提示上，非常的方便。
 
 -迭代更新快
 
 -微软和Google支持
+
 TypeScript是微软开发的语言，而Google的Angular使用的就是TypeScript，所以不用担心会停止维护，至少在近几年内TypeScript都会是一门主流开发语言。
 
 ### 5分钟上手TypeScript
