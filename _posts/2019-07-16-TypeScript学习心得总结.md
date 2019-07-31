@@ -114,6 +114,7 @@ function greeter(person: Person) {
 let user = new Student("Jane", "M.", "User");
 
 document.body.innerHTML = greeter(user);
+```
 
 待更新...
 以上都是个人总结出来的，肯定也有不对的地方，欢迎交流指点，互相学习。
