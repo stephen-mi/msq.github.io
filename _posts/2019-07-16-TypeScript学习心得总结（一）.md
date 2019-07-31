@@ -3,7 +3,7 @@ layout:     post
 title:      TypeScript学习心得总结（一）
 subtitle:   TypeScript基础
 date:       2019-07-16
-author:     BY
+author:     MSQ
 header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
