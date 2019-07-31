@@ -14,7 +14,7 @@ tags:
 ### 为什么使用TypeScript
 
 - JavaScript的超集
-    支持所有原生JavaScript的语法
+支持所有原生JavaScript的语法
 
 - 强类型语言
     现在很多主流语言都是强类型的，而这点也一直是JavaScript所被人诟病的地方。使用TypeScript之后，将会在代码调试、重构等步骤节省很多时间。
