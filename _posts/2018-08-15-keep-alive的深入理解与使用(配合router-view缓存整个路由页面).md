@@ -3,7 +3,7 @@ layout:     post
 title:      keep-alive的深入理解与使用（配合router-view缓存整个路由页面）
 subtitle:
 date:       2018-08-15
-author:     BY
+author:     MSQ
 header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:

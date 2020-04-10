@@ -3,7 +3,7 @@ layout:     post
 title:      vue+axios 前端实现登录拦截（路由拦截、http拦截）
 subtitle:   实现前端登录拦截
 date:       2018-10-06
-author:     BY
+author:     MSQ
 header-img: img/post-bg-e2e-ux.jpg
 catalog: true
 tags:

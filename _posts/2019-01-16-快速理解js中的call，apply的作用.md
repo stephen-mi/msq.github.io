@@ -3,7 +3,7 @@ layout:     post
 title:      快速理解js中的call,apply的作用
 subtitle:   js中call,apply用法
 date:       2019-01-16
-author:     BY
+author:     MSQ
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
