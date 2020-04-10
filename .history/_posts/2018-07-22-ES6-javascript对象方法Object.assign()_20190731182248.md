@@ -3,7 +3,7 @@ layout:     post
 title:      ES6 javascript对象方法Object.assign
 subtitle:   ES6 javascript对象方法Object.assign的使用
 date:       2018-07-22
-author:     MSQ
+author:     BY
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
